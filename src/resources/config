@@ -1,0 +1,5 @@
+#config file
+gameWidth=160
+gameHeight=90
+screenWidth=1280
+screenHeight=720

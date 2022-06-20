@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"be.uantwerpen.fti.ei.entities"},{"l":"be.uantwerpen.fti.ei.spaceinvaders"},{"l":"be.uantwerpen.fti.ei.spaceinvadersjava2D"}]
